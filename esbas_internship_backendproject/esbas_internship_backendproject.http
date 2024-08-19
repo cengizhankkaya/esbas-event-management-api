@@ -1,0 +1,6 @@
+@esbas_internship_backendproject_HostAddress = http://localhost:7082
+
+GET {{esbas_internship_backendproject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
