@@ -47,10 +47,12 @@ API, hem Flutter hem de React uygulamaları tarafından tüketilmek üzere tasar
 
 Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için LICENSE dosyasına bakın.
 
-![Ekran görüntüsü 2024-08-19 125626](https://github.com/user-attachments/assets/7fc81cf3-09f4-4c86-8e1e-d23e4433c860)
+![Ekran görüntüsü 2024-08-19 125626](https://github.com/user-attachments/assets/3a331193-974c-4b5a-91d1-9a99ff4c5567)
 
 
-![22](https://github.com/user-attachments/assets/c50a544e-b302-4d6c-ae2d-29ac5cbd94be)
+![22](https://github.com/user-attachments/assets/40c8df87-5fda-4c68-a1c9-3c0233a0a5d8)
+
+
 
 
 
