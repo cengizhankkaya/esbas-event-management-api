@@ -31,7 +31,7 @@ ESBAŞ Etkinlik Yönetim Sistemi API'si, etkinlikler, kullanıcılar ve ilgili b
 
 ## Başlangıç
 
-Projeyi yerel ortamınızda kurmak ve çalıştırmak için aşağıdaki talimatları izleyin.
+Projeyi yerel ortamınızda kurmak ve çalıştırmak için aşağıdaki talimatları izleyin. Projedeki sql tablolarına ve yapısına ESBAS_UPDATED.sql dosyasından ulaşılabilir.
 
 ### Gereksinimler
 
